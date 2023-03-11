@@ -1,1 +1,2 @@
 # Procoder-CSS-Margin-Padding
+In this video i learned css margin and padding those are using method are similar but just contibit other and components method different like if you check a css box model you can see margin totally out of line and padding those are using for in box section thank you
